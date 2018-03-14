@@ -1,0 +1,2 @@
+# Titanic-Data-Analysis
+Using jupyter lab and python i did data analysis based on the titanic data and events that occurred on that day. My analysis mainly focused on the number of people that boarded the titanic both male and female. I even took careful consideration on the different classes that everyone was placed in.The final result or rather output was to actually find out how many people survived and how many people died and with that being said the age was the main factor to consider when working with such analysis. 
